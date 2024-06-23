@@ -1,6 +1,6 @@
 nginx
 mysql:5.7
-nacos
+nacos/nacos-server
 redis
 xxl-job
 wgan00388/wkcrm
