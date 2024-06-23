@@ -2,5 +2,5 @@ nginx
 mysql:5.7
 nacos/nacos-server
 redis
-xuxueli/xxl-job-admin
+#xuxueli/xxl-job-admin
 wgan00388/wkcrm
