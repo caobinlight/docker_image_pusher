@@ -1,7 +1,1 @@
 nginx
-mysql:5.7
-redis:6.0.8
-elasticsearch:6.8.6
-nacos:1.2.1
-xxl-job:2.1.2
-crm:11.3.4
