@@ -4,3 +4,5 @@ nacos/nacos-server
 redis
 #xuxueli/xxl-job-admin
 wgan00388/wkcrm
+influxdb:1.8.10
+emqx/emqx
