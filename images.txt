@@ -1,5 +1,6 @@
 nginx
 mysql
+mysql:8.4.5
 nacos/nacos-server
 redis
 #xuxueli/xxl-job-admin
