@@ -8,3 +8,4 @@ wgan00388/wkcrm
 influxdb:1.8.10
 emqx/emqx
 cassandra
+jenkins/jenkins:lts-jdk17
